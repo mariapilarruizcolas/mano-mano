@@ -10,7 +10,6 @@
 
 .Produits{
   background-color: #e9efff;
-  display: flex;
   flex-direction: column;
   text-align: left;
   border-radius: 8px;

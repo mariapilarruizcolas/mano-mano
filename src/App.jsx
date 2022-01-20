@@ -19,7 +19,7 @@ function App() {
       <div>
         <div>
           <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/" />
             <Route path="/Projets_cle_en_main" component={Projets_cle_en_main} />
             <Route path="/Amenagements_jardin" component={Amenagements_jardin} />
             <Route path="/Meilleures_ventes" component={Meilleures_ventes} />
