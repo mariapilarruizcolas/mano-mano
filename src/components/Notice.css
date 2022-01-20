@@ -10,13 +10,10 @@
 
 .Produits{
   background-color: #e9efff;
-
   flex-direction: column;
   text-align: left;
   border-radius: 8px;
-  
   padding: 8px;
-
 }
 .Image{
   height: 10rem;
