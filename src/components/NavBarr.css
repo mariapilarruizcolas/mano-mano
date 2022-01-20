@@ -1,22 +1,21 @@
 .Header {
   list-style-type: none;
-  background-color: #96e6b392;
   color: #464e47;
   display: flex;
   align-items: center;
   height: 9vh;
-  justify-content: space-between;
+  justify-content: space-around;
   padding-right: 1rem;
 }
 
 a {
   text-decoration: none;
   font-family: Open Sans,mm-main,arial,sans-serif;
-  color: #464e47;
-  font-size: 20px;
+  color: blue;
+  font-size: 12px;
 }
 a:hover {
-  font-size: 25px;
+  font-size: 12px;
 }
 
 .Bottom {

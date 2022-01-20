@@ -1,11 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
+
 
 body {
-  background-color: hsla(120, 10%, 55%, 0.26);
+  background-color: white;
+  font-family: Open Sans,mm-main,arial,sans-serif;
 }
 
 .title-home {
-  text-align: center;
-  color: #568259;
+  color: rgb(12, 12, 12);
+  font-size: 14px;
   margin: 2rem auto;
 }
