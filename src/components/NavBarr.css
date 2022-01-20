@@ -1,10 +1,11 @@
 .Header {
+  background-color: #a3f3f3;
   list-style-type: none;
   color: #464e47;
   display: flex;
   align-items: center;
   height: 9vh;
-  justify-content: space-around;
+  justify-content: space-between;
   padding-right: 1rem;
 }
 
@@ -12,10 +13,7 @@ a {
   text-decoration: none;
   font-family: Open Sans,mm-main,arial,sans-serif;
   color: blue;
-  font-size: 12px;
-}
-a:hover {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .Bottom {

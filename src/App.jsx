@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 import Sales from './components/Sales';
-import GardenLandscaping from './components/GardeLandscaping';
+import GardenLandscaping from './components/GardenLandscaping';
 import BestSells from './components/BestSells';
 import turnkeyProject from './components/turnkeyProject';
 import Home from './components/Home';

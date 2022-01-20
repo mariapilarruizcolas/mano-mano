@@ -34,11 +34,6 @@ function NavBarr() {
             </NavLink>
           </li>
           <li className="navBar">
-            <NavLink activeClassName="active" to="/Radiateur_electrique">
-              Radiateur electrique
-            </NavLink>
-          </li>
-          <li className="navBar">
             <NavLink activeClassName="active" to="/Suspension">
               Suspension
             </NavLink>
@@ -69,7 +64,7 @@ function NavBarr() {
             </NavLink>
           </li>
           <li className="navBar">
-            <NavLink activeClassName="active" to="/Amenagements_jardin">
+            <NavLink activeClassName="active" to="/GardenLandscaping">
               Amenagements du jardin 
             </NavLink>
           </li>
