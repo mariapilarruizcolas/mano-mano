@@ -11,9 +11,12 @@ function NavBarr() {
       <ul className="Header">
       <li className="navBar">
             <NavLink activeClassName="active" to="/">
-              <img className="logo" src="../img/logo.png" alt="ManoMano" />
+              <img className="logo" src="../img/logo.jpg" alt="ManoMano" />
             </NavLink>
           </li>
+          <li className="navBar">
+          <input className="searchInput" type="text" id="search" name="search" required
+        size="65" placeholder="Rechercher un produit, une marque ou un conseil"></input></li>
       </ul>
         <ul className="Header">
         <li className="navBar">

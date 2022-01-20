@@ -24,4 +24,16 @@ a:hover {
 .logo {
   height: 10vh;
 }
-
+.searchInput{
+  flex: 1 1;
+position: relative;
+width: 80%;
+height: 44px;
+padding-left: 16px;
+padding-right: 40px;
+  border-radius: 22px;
+  font-size: 16px;
+  color: #0c193a;
+  border: 1px solid #d8dadf;
+  background-color: #fafafa;
+}
