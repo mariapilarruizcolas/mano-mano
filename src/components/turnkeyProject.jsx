@@ -1,9 +1,6 @@
 import React from 'react';
 
-
-
-
-function Projets_cle_en_main(){
+function turnkeyProject(){
   return(
     <div>
     <h1>Projets cle en main</h1>
@@ -13,4 +10,5 @@ function Projets_cle_en_main(){
     </div>
   )
 }
-export  default Projets_cle_en_main;
+
+export default turnkeyProject;

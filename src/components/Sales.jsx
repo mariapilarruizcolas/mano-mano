@@ -1,11 +1,9 @@
 import React from 'react';
 
-
-
-
-function Soldes(){
+function Sales(){
   return(
     <h1>Soldes</h1>
   )
 }
-export  default Soldes;
+
+export default Sales;

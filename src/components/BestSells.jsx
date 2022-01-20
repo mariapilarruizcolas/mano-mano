@@ -1,11 +1,9 @@
 import React from 'react';
 
-
-
-
-function Meilleures_ventes(){
+function BestSells(){
   return(
     <h1>Meilleures_ventes</h1>
   )
 }
-export  default Meilleures_ventes;
+
+export default BestSells;

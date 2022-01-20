@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-
 import './NavBarr.css';
 
 function NavBarr() {
@@ -88,6 +87,5 @@ function NavBarr() {
       </div>
     </div>
     )}
-     
-
+    
 export default NavBarr;
