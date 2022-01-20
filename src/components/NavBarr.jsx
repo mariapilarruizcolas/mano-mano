@@ -10,7 +10,7 @@ function NavBarr() {
       <div className="NavBarrDescktop">
       <ul className="Header">
       <li className="navBar">
-            <NavLink activeClassName="active" to="/">
+            <NavLink activeClassName="active" to="/Notice">
               <img className="logo" src="../img/logo.jpg" alt="ManoMano" />
             </NavLink>
           </li>
