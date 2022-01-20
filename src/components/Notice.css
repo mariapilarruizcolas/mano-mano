@@ -1,8 +1,7 @@
 .Notice{
   display: flex;
   flex-direction: column;
-  margin-left: 20rem;
-  margin-right: 20rem;
+  margin : auto;
   text-align: center;
   width: 90vh;
 }
