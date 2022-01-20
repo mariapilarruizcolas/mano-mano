@@ -11,13 +11,13 @@ function Notice (){
     <h4>Détails du produit</h4>
     <div className="Produits">
       <h5>Caracteristiques</h5>
-      <h6>Mode de pose : Mural</h6>
-      <h6>Puissance de chauffe: 2kw</h6>
-      <h6>Hauteur: 35 cm</h6>
-      <h6>Profondeur : 20 cm</h6>
-      <h6>Type de résistance: Blindé (en contact direct avec l'eau)</h6>
-      <h6>Temps de chauffe: 3 heure(s)</h6>
-      <h6>Poids: 180kg</h6>
+      <p>Mode de pose : Mural</p>
+      <p>Puissance de chauffe: 2kw</p>
+      <p>Hauteur: 35 cm</p>
+      <p>Profondeur : 20 cm</p>
+      <p>Type de résistance: Blindé (en contact direct avec l'eau)</p>
+      <p> Temps de chauffe: 3 heure(s)</p>
+      <p>Poids: 180kg</p>
     </div>
     <a href="https://www.waterslim.com/wp-content/uploads/2018/10/Fiche-technique-Waterslim.pdf" target="_blank" >Documentation téchnique</a>
     <a href="https://www.youtube.com/watch?v=DWtXf-Jolbc" target="_blank" >Tuto montage</a>
