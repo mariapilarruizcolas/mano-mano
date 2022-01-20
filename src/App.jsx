@@ -15,10 +15,7 @@ function App() {
   return (
     <div className="App">
       <Home />
-      <div className="title-home">
-        <h2>Soldes d'hiver.</h2>
-        <h3>Ici vous trouverez des prix réduits sur toute une série de produits pour bricoler, jardiner, aménager son chez soi. Maintenant. Là. Ici. En ce moment.</h3>
-      </div>
+      
       <div>
         <div>
           <Switch>
@@ -29,6 +26,7 @@ function App() {
             <Route path="/Soldes" component={Soldes} />
           </Switch>
         </div>
+        
     
       </div>
     </div>

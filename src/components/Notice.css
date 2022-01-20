@@ -1,0 +1,26 @@
+.Notice{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  text-align: center;
+  width: 90vh;
+}
+
+
+.Produits{
+  background-color: #e9efff;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  border-radius: 8px;
+  margin: 16px 0px 0;
+  padding: 8px;
+
+}
+.Image{
+  height: 10rem;
+}
+.h6{
+  line-height: 1rem;
+}
