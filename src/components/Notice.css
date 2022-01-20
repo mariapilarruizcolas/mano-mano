@@ -14,13 +14,13 @@
   flex-direction: column;
   text-align: left;
   border-radius: 8px;
-  margin: 16px 0px 0;
+  
   padding: 8px;
 
 }
 .Image{
   height: 10rem;
 }
-.h6{
-  line-height: 1rem;
+.p{
+  margin:0;
 }

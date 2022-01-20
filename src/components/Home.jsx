@@ -6,7 +6,7 @@ import Notice from './Notice';
 
 function Home() {
   return (
-    <div className="container">
+    <div>
       <NavBarr />
       <Notice />
     </div>

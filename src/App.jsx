@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 
-import Soldes from './components/Soldes';
+
 import Amenagements_jardin from './components/Amenagements_jardin';
 import Meilleures_ventes from './components/Meilleures_ventes';
 import Projets_cle_en_main from './components/Projets_cle_en_main';
@@ -23,7 +23,7 @@ function App() {
             <Route path="/Projets_cle_en_main" component={Projets_cle_en_main} />
             <Route path="/Amenagements_jardin" component={Amenagements_jardin} />
             <Route path="/Meilleures_ventes" component={Meilleures_ventes} />
-            <Route path="/Soldes" component={Soldes} />
+            
           </Switch>
         </div>
         
