@@ -19,9 +19,11 @@ function Notice (){
       <h6>Temps de chauffe: 3 heure(s)</h6>
       <h6>Poids: 180kg</h6>
     </div>
-    <a href="https://www.waterslim.com/wp-content/uploads/2018/10/Fiche-technique-Waterslim.pdf" target="_blank" >Documentation téchnique</a>
-    <a href="https://www.youtube.com/watch?v=DWtXf-Jolbc" target="_blank" >Tuto montage</a>
-    <a href="https://www.devis67.com" target="_blank" >Besoin d'un artisan?</a>
+    <div className='Links'>
+       <a className='link' href="https://www.waterslim.com/wp-content/uploads/2018/10/Fiche-technique-Waterslim.pdf" target="_blank" >Documentation technique</a>
+       <a className='link' href="https://www.youtube.com/watch?v=DWtXf-Jolbc" target="_blank" >Tutos d'aide pour le montage</a>
+       <a className='link' href="https://www.devis67.com" target="_blank" >Besoin d'un artisan?</a>
+    </div>
   </div>
   )
 }

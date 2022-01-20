@@ -20,3 +20,19 @@
 .Image{
   height: 10rem;
 }
+
+.Links{
+  background-color: #a3f3f3;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.link{
+  text-decoration: none;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-family: Open Sans,mm-main,arial,sans-serif;
+  font-size: 1.5rem;
+}
