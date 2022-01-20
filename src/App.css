@@ -8,5 +8,6 @@ body {
 .title-home {
   color: rgb(12, 12, 12);
   font-size: 14px;
+  border-radius: 8px;
   
 }
