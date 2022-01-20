@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-
 import './NavBarr.css';
 
 function NavBarr() {
@@ -25,7 +24,7 @@ function NavBarr() {
             </NavLink>
           </li>
         <li className="navBar">
-            <NavLink activeClassName="active" to="/Projets_cle_en_main">
+            <NavLink activeClassName="active" to="/turnkeyProject">
               Projets cle en main
             </NavLink>
           </li>
@@ -60,17 +59,12 @@ function NavBarr() {
             </NavLink>
           </li>
           <li className="navBar">
-            <NavLink activeClassName="active" to="/Projets_cle_en_main">
-              Projets cle en main
-            </NavLink>
-          </li>
-          <li className="navBar">
-            <NavLink activeClassName="active" to="/Soldes">
+            <NavLink activeClassName="active" to="/Sales">
               Soldes
             </NavLink>
           </li>
           <li className="navBar">
-            <NavLink activeClassName="active" to="/Meilleurs_Ventes">
+            <NavLink activeClassName="active" to="/BestSells">
               Meilleurs Ventes
             </NavLink>
           </li>
@@ -88,6 +82,5 @@ function NavBarr() {
       </div>
     </div>
     )}
-     
-
+    
 export default NavBarr;
